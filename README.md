@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I'm currently working on React Native apps + NestJS 
+- 🌱 I'm currently learning Ansible
+- 👯 I'm looking to collobarate with React, NestJS developers, also I need good JS junior developers
+
 <!--
 **ryskin/ryskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
