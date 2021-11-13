@@ -4,6 +4,11 @@
 - 🌱 I'm currently learning Ansible
 - 👯 I'm looking to collobarate with React, NestJS developers, also I need good JS junior developers
 
+- 📫 How to reach me: ringo@ringo-web.ru
+
+#UI/UX #FIGMA #DESIGN-SYSTEMS
+#DEVELOPING #REACT-NATIVE #REACT-JS #NEST-JS #MOBX-STATE-TREE #GRAPHQL
+
 <!--
 **ryskin/ryskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
