@@ -1,15 +1,15 @@
 ### Hi there 👋
 
+- 🔭 🔭 Working on multiple frontend and backend project using JS (React Native, and Node.js (NestJS)
+- 🌱 I'm currently learning Ansible
+- 👯 I'm looking to collobarate with React, NestJS developers, also I need good JS junior developers
+
 - Project Manager - over 10 years
 - Product Manager - over 3 years
 - Ruby On Rails Developer - over 3 years, but stoped few years ago
 - React JS, React Native, Java Script - over 3 years
 - NestJS - less then 1 year
 - DevOps - basic deploy scenarion
-
-- 🔭 I'm currently working on React Native apps + NestJS 
-- 🌱 I'm currently learning Ansible
-- 👯 I'm looking to collobarate with React, NestJS developers, also I need good JS junior developers
 
 - 📫 How to reach me: ringo@ringo-web.ru
 
