@@ -9,7 +9,7 @@
 - Ruby On Rails Developer - over 3 years, but stoped few years ago
 - React JS, React Native, Java Script - over 3 years
 - NestJS - less then 1 year
-- DevOps - basic deploy scenarion
+- DevOps - basic deploy scenario (ansible)
 ***
 - 📫 How to reach me: ringo@ringo-web.ru
 
