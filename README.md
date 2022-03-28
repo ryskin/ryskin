@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 🔭 Working on multiple frontend and backend project using JS (React Native, and Node.js (NestJS)
+- 🔭 🔭 Working on multiple frontend and backend projects using JS (React Native, and Node.js (NestJS)
 - 🌱 I'm currently learning Ansible
-- 👯 I'm looking to collobarate with React, NestJS developers, also I need good JS junior developers
+- 👯 I'm looking to collabarate with React, NestJS developers, also I need good JS junior developers
 ***
 - Project Manager - over 10 years
 - Product Manager - over 3 years
