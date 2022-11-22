@@ -1,8 +1,10 @@
+- upd 22.11.2022 - **Open to Work**
+
 ### Hi there 👋
 
 - 🔭 🔭 Working on multiple frontend and backend projects using JS (React Native, and Node.js (NestJS)
-- 🌱 I'm currently learning Ansible
-- 👯 I'm looking to collabarate with React, NestJS developers, also I need good JS junior developers
+- 🌱 My main focus now is on React Native
+
 ***
 - Project Manager - over 10 years
 - Product Manager - over 3 years
