@@ -1,5 +1,3 @@
-- upd 22.11.2022 - **Open to Work**
-
 ### Hi there 👋
 
 - 🔭 🔭 Working on multiple frontend and backend projects using JS (React Native, and Node.js (NestJS)
